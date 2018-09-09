@@ -1,16 +1,20 @@
-/*:
- ## App Exercise - Fitness Tracker: Constant or Variable?
- 
- >These exercises reinforce Swift concepts in the context of a fitness tracking app.
- 
- There are all sorts of things that a fitness tracking app needs to keep track of in order to display the right information to the user. Similar to the last exercise, declare either a constant or a variable for each of the following items, and assign each a sensible value. Be sure to use proper naming conventions.
- 
- - Name: The user's name
- - Age: The user's age
- - Number of steps taken today: The number of steps that a user has taken today
- - Goal number of steps: The user's goal for number of steps to take each day
- - Average heart rate: The user's average heart rate over the last 24 hours
- */
+
+
+
+let userName: String = "aalturki"
+print("the user name is aalturki")
+var userAge = (23)
+print("the user's age is 23")
+var numberOfStepsTakenToday = (3000)
+print("number of steps has taken today is 3000")
+let goalNumberOfSteps = (3500)
+print("goal number of steps is 3500")
+var averageHeartRate = 95
+print("average heart rate last 24 hours is 95")
+
+
+
+
 
 
 

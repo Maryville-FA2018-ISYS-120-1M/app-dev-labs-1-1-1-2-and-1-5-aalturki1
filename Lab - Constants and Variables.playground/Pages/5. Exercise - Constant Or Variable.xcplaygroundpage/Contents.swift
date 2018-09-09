@@ -13,6 +13,17 @@
 
 
 
+var numberOfLikes = 200
+print(200)
+var NumberOfComments = 66
+print (66)
+let yearCreated = 2018
+print(2018)
+let monthCreated = "September"
+print("September")
+let dayCreated = "Saturday"
+print("Saturday")
+
 
 
 //: [Previous](@previous)  |  page 5 of 10  |  [Next: App Exercise - Fitness Tracker: Constant or Variable?](@next)
